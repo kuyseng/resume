@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "Kuyseng Chheoun",
+    "label": "Senior Web Developer",
+    "picture": "https://avatars3.githubusercontent.com/u/771344?v=3&s=466",
+    "email": "kuyseng@gmail.com",
+    "phone": "(855) 977 226 225",
+    "website": "https://kuyseng.github.io/",
+    "summary": "I am a Senior Web Developers(full stack) with 4+ experiences. I am working in Ruby on Rails, AngularJS, CoffeeScript, Javascript, Twitter Bootstrap, and Angular Material. I am also practising ReactJS and ES2015. ",
+    "location": {
+      "address": "Beng Keng Kang 3",
+      "postalCode": "",
+      "city": "Phnom Penh, Cambodia",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "kuyseng",
+        "url": "https://www.linkedin.com/in/kuyseng"
+      },
+      {
+        "network": "Codewars",
+        "username": "kuyseng",
+        "url": "http://www.codewars.com/users/kuyseng"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Yoolk Inc",
+      "position": "Senior Web Developer",
+      "website": "http://yoolk.com/",
+      "startDate": "January 2015",
+      "endDate": "Present",
+      "summary": "Develop, enhance and maintain the whole system",
+      "highlights": [
+        "Handle technicals with support team.",
+        "Perform regular trainings for juniors and seniors.",
+        "Handle whole print system that export tagged text and XML to import into InDesign to generate Directory book.",
+        "Create InDesign scripts to help print process.",
+        "Do code reviews."
+      ]
+    },
+    {
+      "company": "Yoolk Inc",
+      "position": "Junior Developer",
+      "website": "http://yoolk.com/",
+      "startDate": "December 2011",
+      "endDate": "Janunary 2015",
+      "summary": "Learn, Develop and maintain the system",
+      "highlights": [
+        "Develop feature applications",
+        "write InDesign scripts for generating books."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Norton University, Cambodia",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2005",
+      "endDate": "2009",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Outstanding Student Award",
+      "date": "",
+      "awarder": "Norton University",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Back end",
+      "level": "",
+      "keywords": [
+        "Ruby / Ruby on Rails",
+        "MySQL, PostgreSQL, MongoDB",
+        "Ubuntu"
+      ]
+    },
+    {
+      "name": "Front end",
+      "level": "",
+      "keywords": [
+        "AngularJS, Ionic",
+        "Javascript / JQuery",
+        "Material Design/ Twitter Bootstrap",
+        "HTML/HTML5",
+        "CSS/CSS3, Sass, Less"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Khmer",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Very Good"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cycling",
+      "keywords": []
+    },
+    {
+      "name": "Running, Walking",
+      "keywords": []
+    },
+    {
+      "name": "Workout",
+      "keywords": []
+    }
+  ],
+  "references": []
+}

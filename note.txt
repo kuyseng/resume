@@ -1,0 +1,19 @@
+https://jsonresume.org/getting-started/
+
+$ resume export <file_name>.html -t <theme-name>
+
+# Resume Editor
+http://registry.jsonresume.org/#simple   // simple is theme-name
+
+# Notes:
+- need resume.json to generate theme
+- I'm availbe on https://registry.jsonresume.org/kuyseng
+- currently use theme: simple
+
+
+Learn:
+
+$ resume --help
+$ resume register
+$ resume login
+$ resume publish -t <theme-name>
